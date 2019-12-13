@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>nike6.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\raw\nike6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>760</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>226</ymin>
+			<xmax>509</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

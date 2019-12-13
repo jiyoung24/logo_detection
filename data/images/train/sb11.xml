@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>sb11.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\raw\sb11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>353</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>starbucks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>39</ymin>
+			<xmax>206</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+</annotation>
