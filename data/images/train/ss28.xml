@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>ss28.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\raw\ss28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>659</width>
+		<height>655</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>samsung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>286</ymin>
+			<xmax>412</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>
