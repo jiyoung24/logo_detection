@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>66.jpg</filename>
+	<path>C:\Users\jiyou\Desktop\resized\66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>249</ymin>
+			<xmax>337</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>
